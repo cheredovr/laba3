@@ -37,3 +37,7 @@ void vl::outvl()
 	}
 	printf_s("\n");
 }
+vl::~vl()
+{
+	;
+}

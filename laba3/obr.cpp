@@ -38,3 +38,7 @@ void ob::outob()
 	}
 	printf_s("\n");
 }
+ob::~ob()
+{
+	;
+}

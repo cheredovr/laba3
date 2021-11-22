@@ -37,3 +37,7 @@ void place::outpl()
 	}
 	printf_s("\n");
 }
+place::~place()
+{
+	;
+}
